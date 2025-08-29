@@ -1,0 +1,40 @@
+Summary / Objective:
+Motivated and detail-oriented Computer Engineering student with a strong passion for full-stack web development, AI, and innovative problem-solving. Skilled in designing responsive websites and developing scalable software solutions. Seeking opportunities to apply technical skills to real-world projects and contribute to cutting-edge technologies.
+
+Education:
+
+• B.Sc. Computer science, university — 2023–Present
+
+• High School Diploma, Lagos High School — 2018–2023
+
+Work Experience:
+
+• Freelance Web Developer — Remote | 2024–Present
+
+• Built responsive websites for small businesses and personal projects.
+
+• Implemented backend APIs using Node.js and Python.
+
+• Tutor — Lagos, Nigeria | 2022–2024
+
+• Taught mathematics, physics, and computer science to high school students.
+
+• Designed interactive exercises to improve student engagement and learning outcomes.
+
+Skills:
+
+• HTML, CSS, JavaScript, React
+
+• Python, Node.js, SQL
+
+• Responsive Web Design & UI/UX
+
+• Problem-solving & Analytical Thinking
+
+Awards & Certifications:
+
+• Full-Stack Web Development Certificate — Udemy, 2025
+
+• Lagos State Math Olympiad Award, 2021
+
+• AI & Machine Learning Online Workshop Completion, 2024
